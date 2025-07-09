@@ -25,3 +25,7 @@ pip install -r requirements.txt
 alembic upgrade head
 ```
 
+### 4. Запуск
+```bash
+python app.py
+```
